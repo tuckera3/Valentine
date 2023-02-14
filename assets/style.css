@@ -31,3 +31,20 @@ section {
     border-width: 8px;
     border-color: red;
 }
+.valentine {
+    color: red;
+    font-size: 25px;
+}
+
+fieldset {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: pink
+
+
+}
